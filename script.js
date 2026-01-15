@@ -28,7 +28,7 @@ const projects = [
     description:
       "Tamamen responsive ve modern tasarıma sahip portfolyo sitesi.",
     techStack: ["HTML", "CSS", "JavaScript"],
-    githubLink: "#",
+    githubLink: "https://github.com/hevalvural007/HevalVuralPortfolio",
     liveLink: "#",
   },
 ];
