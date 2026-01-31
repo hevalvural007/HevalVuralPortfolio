@@ -24,6 +24,14 @@ const projects = [
     liveLink: "#",
   },
   {
+    title: "Offline Whisper Speech to Text Converter",
+    description:
+      "Kotlin ve OpenAI tarafından geliştirilen Whisper modelini kullanarak konuşmaları yazıya döken bir uygulama geliştirdim.",
+    techStack: ["Kotlin", "Whisper", "Jetpack Compose"],
+    githubLink: "https://github.com/hevalvural007/Offline_Whisper_App",
+    liveLink: "#",
+  },
+  {
     title: "Kişisel Web Sitesi",
     description:
       "Tamamen responsive ve modern tasarıma sahip portfolyo sitesi.",
